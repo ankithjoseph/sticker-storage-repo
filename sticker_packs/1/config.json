@@ -11,175 +11,175 @@
       "license_agreement_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
+          "image_file": "01.webp",
           "emojis": [
             "☕",
             "🙂"
           ]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
+          "image_file": "02.webp",
           "emojis": [
             "😄",
             "😀"
           ]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
+          "image_file": "03.webp",
           "emojis": [
             "😆",
             "😂"
           ]
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
+          "image_file": "04.webp",
           "emojis": [
             "😩",
             "😰"
           ]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
+          "image_file": "05.webp",
           "emojis": [
             "😭",
             "💧"
           ]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
+          "image_file": "06.webp",
           "emojis": [
             "😍",
             "♥"
           ]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
+          "image_file": "07.webp",
           "emojis": [
             "💔",
             "👎"
           ]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
+          "image_file": "08.webp",
           "emojis": [
             "😍",
             "💑"
           ]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "image_file": "09.webp",
           "emojis": [
             "😘",
             "🍪"
           ]
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
+          "image_file": "10.webp",
           "emojis": [
             "🤔",
             "😐"
           ]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
+          "image_file": "11.webp",
           "emojis": [
             "😱",
             "😵"
           ]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
+          "image_file": "12.webp",
           "emojis": [
             "😡",
             "😠"
           ]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
+          "image_file": "13.webp",
           "emojis": [
             "❓",
             "🤔"
           ]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
+          "image_file": "14.webp",
           "emojis": [
             "🌈",
             "😜"
           ]
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
+          "image_file": "15.webp",
           "emojis": [
             "💻",
             "😩"
           ]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
+          "image_file": "16.webp",
           "emojis": [
             "😡",
             "😤"
           ]
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
+          "image_file": "17.webp",
           "emojis": [
             "😩",
             "😨"
           ]
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
+          "image_file": "18.webp",
           "emojis": [
             "💻",
             "🌃"
           ]
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
+          "image_file": "19.webp",
           "emojis": [
             "🎉",
             "✨"
           ]
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
+          "image_file": "20.webp",
           "emojis": [
             "🤮",
             "👎"
           ]
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
+          "image_file": "21.webp",
           "emojis": [
             "🖐",
             "🙋"
           ]
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
+          "image_file": "22.webp",
           "emojis": [
             "🖐",
             "👋"
           ]
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
+          "image_file": "23.webp",
           "emojis": [
             "🍵",
             "😌"
           ]
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
+          "image_file": "24.webp",
           "emojis": [
             "📱",
             "😦"
           ]
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
+          "image_file": "25.webp",
           "emojis": [
             "🔋",
             "😵"
