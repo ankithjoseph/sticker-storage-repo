@@ -1,6 +1,7 @@
 {
   "stickerpackslist": [
     {
+      "identifier": "1",
       "title": "Cuppy",
       "author": "Yeaa team",
       "size": "316KB",
@@ -36,6 +37,7 @@
       ]
     },
     {
+      "identifier": "2",
       "title": "Dragon",
       "author": "Yeaa team",
       "size": "346KB",
