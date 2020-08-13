@@ -2,7 +2,7 @@
       "identifier": "1",
       "name": "Cuppy",
       "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
