@@ -3,7 +3,7 @@
       "name": "Dragon",
       "publisher": "Jane Doe",
       "tray_image_file": "tray.webp",
-      "image_data_version": "2.2",
+      "image_data_version": "1.2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
