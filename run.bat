@@ -18,6 +18,10 @@ set /P loopcount=Please enter an identifier:
     CScript  zip.vbs  %TEMPDIR%  C:\Users\Ankith\github\sticker-storage-repo\sticker_packs\%loopcount%\%loopcount%.zip
 
     @RD /S /Q %TEMPDIR%
+git add .
+git commit -am "made changes"
+git push
+
 set /a loopcount=loopcount-1
 if %loopcount%==0 goto exitloop
 goto loop
