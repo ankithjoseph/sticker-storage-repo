@@ -23,14 +23,17 @@
       "title": "Chandu",
       "author": "Yeaa team",
       "about": "AKA \"Chitt\" 🤖",
-      "version": "1.53",
+      "version": "1.54",
       "size": "346KB",
       "trayicon": "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/2/tray.png",
       "downloadurl": "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/2/2.zip",
       "filename": "2.zip",
       "images": [
         "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/2/01.webp",
-        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/2/02.webp"
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/2/02.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/2/03.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/2/04.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/2/05.webp"
       ]
     },
     {

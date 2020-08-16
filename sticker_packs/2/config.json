@@ -3,7 +3,7 @@
       "name": "Chandu",
       "publisher": "Yeaa Team",
       "tray_image_file": "tray.png",
-      "image_data_version": "1.53",
+      "image_data_version": "1.54",
       "avoid_cache": true,
       "publisher_email": "https://github.com/ankithjoseph/sticker-storage-repo",
       "publisher_website": "https://github.com/ankithjoseph/sticker-storage-repo",
@@ -22,6 +22,27 @@
           "emojis": [
             "😄",
             "😀"
+          ]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "☕",
+            "🙂"
           ]
         }
       ]
