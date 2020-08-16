@@ -4,7 +4,7 @@
       "publisher": "Yeaa Team",
       "tray_image_file": "tray.png",
       "image_data_version": "1.12",
-      "avoid_cache": false,
+      "avoid_cache": true,
       "publisher_email": "https://github.com/ankithjoseph/sticker-storage-repo",
       "publisher_website": "https://github.com/ankithjoseph/sticker-storage-repo",
       "privacy_policy_website": "https://github.com/ankithjoseph/sticker-storage-repo",
