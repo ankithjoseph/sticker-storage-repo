@@ -1,20 +1,20 @@
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
+      "name": "kulu",
+      "publisher": "Yeaa Team",
       "tray_image_file": "tray.png",
-      "image_data_version": "1.11",
+      "image_data_version": "1.12",
       "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
-      "privacy_policy_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
-      "license_agreement_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "publisher_email": "https://github.com/ankithjoseph/sticker-storage-repo",
+      "publisher_website": "https://github.com/ankithjoseph/sticker-storage-repo",
+      "privacy_policy_website": "https://github.com/ankithjoseph/sticker-storage-repo",
+      "license_agreement_website": "https://github.com/ankithjoseph/sticker-storage-repo",
       "stickers": [
         {
           "image_file": "01.webp",
           "emojis": [
-            "☕",
-            "🙂"
+            "😦",
+            "🙍‍♂"
           ]
         },
         {
