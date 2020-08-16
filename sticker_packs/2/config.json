@@ -1,14 +1,14 @@
     {
       "identifier": "2",
-      "name": "Dragon",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray.webp",
-      "image_data_version": "1.51",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
-      "privacy_policy_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
-      "license_agreement_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "name": "Chandu",
+      "publisher": "Yeaa Team",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1.52",
+      "avoid_cache": true,
+      "publisher_email": "https://github.com/ankithjoseph/sticker-storage-repo",
+      "publisher_website": "https://github.com/ankithjoseph/sticker-storage-repo",
+      "privacy_policy_website": "https://github.com/ankithjoseph/sticker-storage-repo",
+      "license_agreement_website": "https://github.com/ankithjoseph/sticker-storage-repo",
       "stickers": [
         {
           "image_file": "01.webp",
