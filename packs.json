@@ -99,6 +99,37 @@
         "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/3/17.webp",
         "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/3/18.webp"
       ]
+    },
+    {
+      "identifier": "4",
+      "title": "Deepak",
+      "author": "Yeaa team",
+      "about": "AKA \"Kalari,Kaiman,Kaala 🐃\" ",
+      "version": "1",
+      "size": "338KB",
+      "trayicon": "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/tray.png",
+      "downloadurl": "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/4.zip",
+      "filename": "3.zip",
+      "images": [
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/01.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/02.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/03.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/04.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/05.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/06.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/07.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/08.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/09.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/10.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/11.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/12.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/13.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/14.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/15.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/16.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/17.webp",
+        "https://github.com/ankithjoseph/sticker-storage-repo/raw/master/sticker_packs/4/18.webp"
+      ]
     }
   ]
 }

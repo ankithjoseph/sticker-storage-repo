@@ -1,9 +1,9 @@
     {
-      "identifier": "3",
-      "name": "Varma",
+      "identifier": "4",
+      "name": "Deepak",
       "publisher": "Yeaa Team",
       "tray_image_file": "tray.png",
-      "image_data_version": "1.1",
+      "image_data_version": "1",
       "avoid_cache": true,
       "publisher_email": "https://github.com/ankithjoseph/sticker-storage-repo",
       "publisher_website": "https://github.com/ankithjoseph/sticker-storage-repo",
